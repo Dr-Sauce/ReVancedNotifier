@@ -17,9 +17,9 @@ Receive [**YouTube ReVanced**](https://dev.revanced.app/) and [**YouTube ReVance
 ![Picture1](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/51eb34b3-f322-46bc-abfc-e7e6cabfae0f)
 2. Select a trigger(I personally recommend **Time of Day** or **Charger**) → Configure settings and press **Next** → Press **+ Add Action**
 ![Picture2](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/227bd0f2-c375-4bd5-b6fc-86c3937a3280)
-3. Search for **Text** and select it → Search for **Run Shortcut** and select it
+3. Search for **Text** and select it → Search for **Run Shortcut** and select it → Press **Run 'Shortcut'**
 ![Picture3](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/c6f7a60a-b3d3-4f4c-9479-e092a9ab4eed)
-4. Select **ReVanced Notifier** → Press the blue icon **▽** → Check if **Input** is set as **Text**. (This is important. If it's blank you'll see a menu popup everytime when **ReVanced Notifier** runs in the background) → Press **Next** → Disable **Ask Before Running** → Press **Don't ask** → Press **Done**
+4. Select **ReVanced Notifier** → Press the blue icon **▽** → Check if **Input** is set as **Text**. (This is important. If it's blank you'll see a menu popup everytime **ReVanced Notifier** runs in the background) → Press **Next** → Disable **Ask Before Running** → Press **Don't ask** → Press **Done**
 ![Picture4](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/e615ae29-087d-42d6-8365-12fdbc54dc87)
 5. Now try it out if it works well! You'll receive notifications if there's a new update. (By the way, it's impossible to remove **Running your automation** notification)
 ![Picture5](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/db974238-6d72-4cc7-b079-ac6b1673dcad)

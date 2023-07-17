@@ -1,5 +1,5 @@
 # ReVanced Notifier
-Receive [**YouTube ReVanced**](https://dev.revanced.app/) and [**YouTube ReVanced Extended**](https://github.com/inotia00/ReVanced_Extended) update notifications on your iPhone.
+Receive [**YouTube ReVanced**](https://revanced.app/patches) and [**YouTube ReVanced Extended**](https://github.com/inotia00/revanced-patches#-comgoogleandroidyoutube) update notifications on your iPhone.
 
 (Use [**AnyTracker**](https://play.google.com/store/apps/details?id=com.shervinkoushan.anyTracker) or [**Obtainium**](https://github.com/ImranR98/Obtainium) on Android)
 

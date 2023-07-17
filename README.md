@@ -24,7 +24,8 @@ Receive [**YouTube ReVanced**](https://dev.revanced.app/) and [**YouTube ReVance
 5. Now try it out if it works well! You'll receive notifications if there's a new update. (By the way, it's impossible to remove **Running your automation** notification)
 ![Picture5](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/db974238-6d72-4cc7-b079-ac6b1673dcad)
 
-
+# Source:
+[Shortcut Updater](https://github.com/Dr-Sauce/ShortcutUpdater) ([Dr-Sauce](https://github.com/Dr-Sauce))
 
 # Credits:
 

@@ -21,7 +21,7 @@ Receive [**YouTube ReVanced**](https://revanced.app/patches) and [**YouTube ReVa
 ![Picture3](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/c6f7a60a-b3d3-4f4c-9479-e092a9ab4eed)
 4. Select **ReVanced Notifier** → Press the blue icon **▽** → Check if **Input** is set as **Text**. (This is important. If it's blank you'll see a menu popup everytime **ReVanced Notifier** runs in the background) → Press **Next** → Disable **Ask Before Running** → Press **Don't ask** → Press **Done**
 ![Picture4](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/e615ae29-087d-42d6-8365-12fdbc54dc87)
-5. Now try it out if it works well! You'll receive notifications if there's a new update. (By the way, it's impossible to remove **Running your automation** notification)
+5. Now try it out if it works well! You'll receive notifications if there's a new update. (Use [Truecuts](https://github.com/qnblackcat/rootless-tweaks/releases/download/090623/com.ethanrdoesmc.truecuts_1.2.0_iphoneos-arm64.deb) to remove **Running your automation** notification if your iPhone is jailbroken)
 ![Picture5](https://github.com/Dr-Sauce/ReVancedNotifier/assets/82555878/db974238-6d72-4cc7-b079-ac6b1673dcad)
 
 # Source:
